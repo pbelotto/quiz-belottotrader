@@ -17,3 +17,9 @@ input, button {
     padding: 0.5rem;
     font-size: 1rem;
 }
+button {
+    background-color: #1ceded;
+    color: #000;
+    border: none;
+    cursor: pointer;
+}
